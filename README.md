@@ -9,7 +9,7 @@
 
 🚀 ❘ On this GitHub profile, you'll find a mix of my personal projects, ranging from small scripts to more ambitious endeavors. My goal here is to share my discoveries, learn more, and perhaps collaborate on exciting projects.
 
-◜ Feel free to reach out if you want to discuss development, cybersecurity, or simply exchange ideas.
+◜ Feel free to reach out if you want to discuss development, cybersecurity, or simply exchange ideas.<br>
 ◟ 📫 You can reach me via ``Contact@Gaaxb.me / Gaaxb@Gmx.fr`` or on different social media with my username: ``@Gaaxb``
 **Looking forward to coding and learning together!** 🚀
 
