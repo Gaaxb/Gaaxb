@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Gaaxb !
+### This description is in English for the sake of GitHub, but I speak French as well.
 
 💻 ❘ I've been passionate about computers for as long as I can remember, and I'm constantly on a quest for learning and exploring in the digital realm. While I may not be a world-class developer, I consider myself a curious and resourceful digital tinkerer.
 
@@ -9,7 +10,7 @@
 🚀 ❘ On this GitHub profile, you'll find a mix of my personal projects, ranging from small scripts to more ambitious endeavors. My goal here is to share my discoveries, learn more, and perhaps collaborate on exciting projects.
 
 ◜ Feel free to reach out if you want to discuss development, cybersecurity, or simply exchange ideas.<br>
-◟ 📫 You can reach me via ``Contact@Gaaxb.me / Gaaxb@Gmx.fr`` or on different social media with my username: ``@Gaaxb``
+◟ 📫 You can reach me via ``Contact@Gaaxb.me / Gaaxb@Gmx.fr`` or on different social media with my username: ``@Gaaxb``<br>
 **Looking forward to coding and learning together!** 🚀
 
 
