@@ -1,5 +1,4 @@
-# 💫 About Me
-👋 **Hi, I'm** `Gaaxb` !<br>**This description is in English for the sake of GitHub, but I speak French as well.**
+# 👋 Hi, I'm Gaaxb !
 
 💻 ❘ I've been passionate about computers for as long as I can remember, and I'm constantly on a quest for learning and exploring in the digital realm. While I may not be a world-class developer, I consider myself a curious and resourceful digital tinkerer.
 
