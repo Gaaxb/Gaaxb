@@ -7,10 +7,10 @@
 
 🔒 ❘ Cybersecurity is a field that particularly fascinates me. I'm always keeping an eye on the latest trends in computer security and enjoy exploring solutions to protect systems and data from digital threats.
 
-🚀 ❘ On this GitHub profile, you'll find a mix of my personal projects, ranging from small scripts to more ambitious endeavors. My goal here is to share my discoveries, learn more, and perhaps collaborate on exciting projects.
+📫 ❘ On this GitHub profile, you'll find a mix of my personal projects, ranging from small scripts to more ambitious endeavors. My goal here is to share my discoveries, learn more, and perhaps collaborate on exciting projects.
 
 ◜ Feel free to reach out if you want to discuss development, cybersecurity, or simply exchange ideas.<br>
-◟ 📫 You can reach me via ``Contact@Gaaxb.me / Gaaxb@Gmx.fr`` or on different social media with my username : ``@Gaaxb``<br>
+◟ You can reach me via ``Contact@Gaaxb.me / Gaaxb@Gmx.fr`` or on different social media with my username : ``@Gaaxb``<br>
 **Looking forward to coding and learning together !** 🚀
 
 
